@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "description": "A site used to play with Gatsby themes",
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.118",
+    "theme": "*"
+  },
+  "devDependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
